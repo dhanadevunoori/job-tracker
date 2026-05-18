@@ -1,6 +1,6 @@
-# Smart Job Application Tracker
+# Smart Job Application Tracker — Production REST API
 
-A production-grade REST API built with Java 17 and Spring Boot 3.5 to track job applications.
+A production-deployed REST API built with Java 17 & Spring Boot 3.5 — featuring JWT authentication, real-time analytics, and 100% Swagger/OpenAPI documentation coverage.
 
 ## Live Demo
 Swagger UI: https://job-tracker-production-38db.up.railway.app/swagger-ui/index.html
