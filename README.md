@@ -9,7 +9,7 @@ Swagger UI: https://job-tracker-production-38db.up.railway.app/swagger-ui/index.
 - Java 17, Spring Boot 3.5
 - Spring Security + JWT Authentication
 - Spring Data JPA + Hibernate
-- H2 Database, Swagger UI
+- MySQL (production), H2 (in-memory for testing), Swagger UI
 - JUnit 5 + Mockito
 - Deployed on Railway
 
